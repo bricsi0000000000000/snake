@@ -1,0 +1,13 @@
+body{
+  background-color: #262626;
+  color: white;
+}
+
+#game{
+  position: block;
+  margin: auto;
+}
+
+.row{
+  display: table;
+}
